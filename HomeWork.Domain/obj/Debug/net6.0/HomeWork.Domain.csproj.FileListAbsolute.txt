@@ -1,0 +1,11 @@
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\bin\Debug\net6.0\HomeWork.Domain.deps.json
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\bin\Debug\net6.0\HomeWork.Domain.dll
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\bin\Debug\net6.0\HomeWork.Domain.pdb
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\obj\Debug\net6.0\HomeWork.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\obj\Debug\net6.0\HomeWork.Domain.AssemblyInfoInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\obj\Debug\net6.0\HomeWork.Domain.AssemblyInfo.cs
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\obj\Debug\net6.0\HomeWork.Domain.csproj.CoreCompileInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\obj\Debug\net6.0\HomeWork.Domain.dll
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\obj\Debug\net6.0\refint\HomeWork.Domain.dll
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\obj\Debug\net6.0\HomeWork.Domain.pdb
+C:\Users\seidb\OneDrive\Masaüstü\HomeWork\HomeWork\HomeWork.Domain\obj\Debug\net6.0\ref\HomeWork.Domain.dll
