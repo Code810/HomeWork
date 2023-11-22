@@ -48,14 +48,18 @@ namespace HomeWork.Domain.Domain
 
         public User(string email, string pasword)
         {
+
             Password = pasword;
             Email = email;
+
+
             Id++;
         }
 
 
         public bool PasswordChecker(string password)
         {
+          
             Regex paswordregex = new Regex(@"^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[a-zA-Z]).{8,}$");
             Match match = paswordregex.Match(password);
 
@@ -64,7 +68,14 @@ namespace HomeWork.Domain.Domain
 
         public void ShowInfo()
         {
-            Console.WriteLine($"{Id} {FullName} {_email} ");
+            if (_password!=null && _email!=null)
+            {
+                Console.WriteLine($"{Id} {FullName} {_email} ");
+                Console.WriteLine();
+                return;
+            }
+            Id--;
+               
         }
 
         public bool EmailChecker(string email)
