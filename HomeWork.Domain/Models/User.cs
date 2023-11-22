@@ -7,12 +7,12 @@ namespace HomeWork.Domain.Domain
 {
     public class User : IAccount
     {
-        private static int Id { get; set; } 
+        private static int _id { get; set; } 
         public string FullName { get; set; }
         public string _email;
 
         private string _password;
-
+        public int Id { get { return _id; } }
         public string Password
         {
             get
@@ -53,7 +53,7 @@ namespace HomeWork.Domain.Domain
             Email = email;
 
 
-            Id++;
+            _id++;
         }
 
 
@@ -74,7 +74,7 @@ namespace HomeWork.Domain.Domain
                 Console.WriteLine();
                 return;
             }
-            Id--;
+            _id--;
                
         }
 
