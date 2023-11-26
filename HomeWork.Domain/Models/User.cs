@@ -12,7 +12,7 @@ namespace HomeWork.Domain.Domain
         public string _email;
 
         private string _password;
-        public int Id { get { return _id; } }
+        public int Id;
         public string Password
         {
             get
@@ -51,9 +51,8 @@ namespace HomeWork.Domain.Domain
 
             Password = pasword;
             Email = email;
-
-
             _id++;
+            Id = _id;
         }
 
 
